@@ -4,12 +4,12 @@
     android:layout_height="match_parent"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:orientation="vertical"
-    android:clipChildren="false">
+    android:paddingLeft="@dimen/view_margin_14dp"
+    android:paddingRight="@dimen/view_margin_14dp">
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
-        android:layout_height="@dimen/home_user_height"
-        android:layout_margin="@dimen/home_user_margin">
+        android:layout_height="@dimen/home_user_height">
 
         <androidx.appcompat.widget.AppCompatImageView
             android:layout_width="match_parent"

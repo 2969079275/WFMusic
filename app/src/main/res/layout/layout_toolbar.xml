@@ -2,12 +2,12 @@
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
-    android:layout_height="@dimen/toolbar_height"
+    android:layout_height="wrap_content"
     android:padding="@dimen/view_margin_14dp">
 
     <com.weifeng.wfmusic.views.MarqueeView
         android:layout_width="wrap_content"
-        android:text="@string/weifeng"
+        android:text="@string/home"
         android:textSize="@dimen/toolbar_title_size"
         style="@style/MarqueeViewStyle"
         app:layout_constraintLeft_toLeftOf="parent"
