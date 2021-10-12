@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="view_margin_14dp">14dp</dimen>
+    <dimen name="toolbar_height">60dp</dimen>
+    <dimen name="toolbar_title_size">26sp</dimen>
+    <dimen name="title_size">16sp</dimen>
+    <dimen name="msg_size">14sp</dimen>
+    <dimen name="img_but_size">26dp</dimen>
+    <dimen name="image_icon_48dp">48dp</dimen>
+    <dimen name="round_8dp">8dp</dimen>
+    <dimen name="view_margin_2dp">2dp</dimen>
+    <dimen name="home_user_height">78dp</dimen>
+    <dimen name="home_user_bg_height">70dp</dimen>
+    <dimen name="home_user_margin">12dp</dimen>
+    <dimen name="home_user_icon_top">8dp</dimen>
+    <dimen name="home_user_icon_left">16dp</dimen>
+</resources>
